@@ -131,6 +131,11 @@ under the License.
       <passphrase>optional; leave empty if not used.</passphrase>
     </server>
     -->
+    <server>
+      <id>mitomcat</id>
+      <username>maven</username>
+      <password>password</password>
+    </server>
   </servers>
 
   <!-- mirrors
