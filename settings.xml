@@ -258,7 +258,7 @@ under the License.
             <properties>
                 <!-- Optional URL to server. Default value is http://localhost:9000 -->
                 <sonar.host.url>
-                  http://34.243.117.15:9000
+                  http://34.240.123.110:9000
                 </sonar.host.url>
             </properties>
         </profile>
